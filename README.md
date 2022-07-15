@@ -1,1 +1,1 @@
-# interviews
+# Custom post type wordpress Interviews
